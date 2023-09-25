@@ -8,11 +8,11 @@
 		<version>3.2.0-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>edu.mum.cs.cs425.demowebapps.elibrary</groupId>
-	<artifactId>elibrary</artifactId>
+	<groupId>edu.mum.cs.cs425.demowebapps.eregistrar</groupId>
+	<artifactId>eregistrar</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>elibrary</name>
-	<description>My First demo Spring Boot webapp for CS425-SWE</description>
+	<name>eregistrar</name>
+	<description>My Sample demo Spring Boot webapp for CS425-SWE</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
